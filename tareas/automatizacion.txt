@@ -1,0 +1,31 @@
+https://www.guru99.com/automation-testing.html
+https://www.quora.com/How-do-I-start-automation-testing-on-a-basic-level
+https://www.quora.com/How-do-I-start-learning-automation-testing-at-basic-level-and-how-do-I-implemented
+https://www.lambdatest.com/blog/starting-automation-testing-from-scratch-here-is-what-you-need-to-know/?utm_campaign=HP-100119-1&utm_medium=Ans&utm_source=Quora&utm_term=Harshit
+https://www.softwaretestinghelp.com/automation-testing-tutorial-1/
+https://www.softwaretestinghelp.com/automation-testing-tutorial-3/
+https://dzone.com/articles/starting-automation-testing-from-scratch-here-is-w
+https://www.lambdatest.com/blog/10-ways-to-speed-up-your-test-cycles/
+https://smartbear.com/learn/automated-testing/best-practices-for-automation/
+https://www.lambdatest.com/blog/starting-automation-testing-from-scratch-here-is-what-you-need-to-know/
+https://crossbrowsertesting.com/blog/test-automation/automated-testing-manual-tester/
+https://simpleprogrammer.com/start-test-automation-part-1/
+https://www.joecolantonio.com/automation-testing-resources/
+https://nicopaez.gitbooks.io/test-automation/index.html
+https://legacy.gitbook.com/book/nicopaez/test-automation/details
+
+
+Soporte/Software/Error de Envío de Mensajes
+	Gestión de cuentas y accesos
+
+La categoría que corresponde es : Soporte/Software/Error de Envío de Mensajes, y el servicio que corresponde es : Correo Eletrónico
+
+
+
+Incidencias y SBS de cara al usuario
+Identificar que SBS originaron incidencias, a raiz de un servicio presencial que estuvo completo ---> SUG: llevar un control y hacer un checklist para 2do nivel para que valide todo y se registre en el ticket
+registrar los pasos previos que reliza mda antes de derivar (registrar descartes que realizan) buscar mecanismo para que no se convierta en cuello de botella
+En el dni no se contempla que el 2do nivel pueda registrar un ticket por lo que siempre tendría que generarlo mda y luego reasignarlo al 2do nivel, se podría incluir en el dni ya que podría ser observable 
+
+
+

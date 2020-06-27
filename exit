@@ -1,0 +1,316 @@
+[33mcommit 44b8192f451631d044effe449d08c3181aaf4f6e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Antonio Acosta Barrantes <aacostab@sbs.gob.pe>
+Date:   Fri Jun 26 23:25:58 2020 -0500
+
+    Se agrega la tarea de Selenium
+
+[33mcommit 0becd7ceb457c32e06a6b451f36d6b81f94e9733[m
+Author: Omar Navarro <omar.navarro@limelighthealth.com>
+Date:   Tue Jun 23 21:17:08 2020 -0500
+
+    se agrega una linea en la tarea 3
+
+[33mcommit 3d9d615467c31e28eb9057ec3533805df9b2c5f8[m
+Author: Omar Navarro <omar.navarro@limelighthealth.com>
+Date:   Tue Jun 23 21:14:55 2020 -0500
+
+    Se modifica la tarea 3
+
+[33mcommit a12b81f8656622afaf4015ba72f5df416f356c91[m
+Author: Omar Navarro <omar.navarro@limelighthealth.com>
+Date:   Tue Jun 23 21:11:53 2020 -0500
+
+    Se agrega la tarea 3
+
+[33mcommit 7eabf3769c3388630b5c5a116945a91c6b8809bf[m
+Merge: ab087b9 922f95d
+Author: Omar Navarro <jomarnavarro@gmail.com>
+Date:   Thu Apr 9 19:58:31 2020 -0500
+
+    Merge branch 'master' of https://github.com/jomarnavarro/intro_automation
+
+[33mcommit ab087b937453f94479a166b281c51e6a1ef2c9a1[m
+Author: Omar Navarro <jomarnavarro@gmail.com>
+Date:   Thu Apr 9 19:57:42 2020 -0500
+
+    Adds a little file
+
+[33mcommit 922f95d199cba8c05c04354603d2016d42db2a6a[m
+Author: MACBOOK <macbook@MACBOOKs-MacBook-Pro.local>
+Date:   Tue Mar 3 13:32:44 2020 -0600
+
+    Adds a class example about adding a song
+
+[33mcommit 4521e50b7448829c27ed17c1434508ce54e262c7[m
+Author: jomarnavarro <jomarnavarro@gmail.com>
+Date:   Thu Feb 20 12:40:46 2020 -0600
+
+    Modifies Presentation for first module
+
+[33mcommit 03e69bf54b624dd954ff3da2a22f8d2bd1f8b919[m
+Author: jomarnavarro <jomarnavarro@gmail.com>
+Date:   Thu Feb 20 11:29:12 2020 -0600
+
+    Removes unnecessary file
+
+[33mcommit f1d502ebfe77d69fa224ece13ea7bd633474ea6e[m
+Author: jomarnavarro <jomarnavarro@gmail.com>
+Date:   Thu Feb 20 11:28:46 2020 -0600
+
+    Rearranges homework assignments
+
+[33mcommit 59d3650aa990eae72773f7b4b8e1af0461cd16dd[m
+Author: jomarnavarro <jomarnavarro@gmail.com>
+Date:   Thu Feb 20 11:27:12 2020 -0600
+
+    Rearranges class examples into planning templates and Sel IDE examples
+
+[33mcommit 0aed433c901a0d5f1216d2febf8e937a92846721[m
+Author: jomarnavarro <jomarnavarro@gmail.com>
+Date:   Thu Feb 20 11:25:12 2020 -0600
+
+    Adds example from imdb site
+
+[33mcommit ab360d7f25613fe6abcb2d2997e39aa6c134297d[m
+Merge: af8155d c9fbbee
+Author: jomarnavarro <jomarnavarro@gmail.com>
+Date:   Thu Feb 20 11:23:23 2020 -0600
+
+    Merge branch 'master' of https://github.com/jomarnavarro/intro_automation
+
+[33mcommit af8155d659c2290ec1ec0d5d05e818cbd4790e86[m
+Author: jomarnavarro <jomarnavarro@gmail.com>
+Date:   Thu Feb 20 11:23:08 2020 -0600
+
+    Modifies README file
+
+[33mcommit c9fbbeeae31a3c2f0c47deda87addb9e88eac89a[m
+Author: Omar Navarro <omar.navarro@payclip.com>
+Date:   Wed Sep 11 19:57:11 2019 -0500
+
+    Agrega las tareas del primer modulo
+
+[33mcommit df6c5ba5a0ad4393f9e8fe7dca8bb2bef4d28c90[m
+Merge: 3c336ef c400704
+Author: Omar Navarro <omar.navarro@payclip.com>
+Date:   Tue Sep 3 20:19:29 2019 -0500
+
+    Merge branch 'master' of https://github.com/jomarnavarro/intro_automation
+
+[33mcommit 3c336ef29d31a98f5b617fa11d99080542cff6b6[m
+Author: Omar Navarro <omar.navarro@payclip.com>
+Date:   Tue Sep 3 20:19:19 2019 -0500
+
+    Creates telcel menu interaction
+
+[33mcommit c400704fddf433bb9c71b6abfa4da3b9423f0d02[m
+Author: Omar Navarro <jomarnavarro@gmail.com>
+Date:   Sat Aug 24 09:48:25 2019 -0500
+
+    Renombra el archivo ejemplo_clase.txt
+
+[33mcommit e639f257e285b7ed34e114fffed34379281c1dbd[m
+Author: Omar Navarro <jomarnavarro@gmail.com>
+Date:   Sat Aug 24 09:47:41 2019 -0500
+
+    Agrega un texto de prueba
+
+[33mcommit 01fb8e0ed9c527a1a7ac20341e407bfc3a033fef[m
+Author: Omar Navarro <jesusbalderas@cloud.upwork.com>
+Date:   Wed Jun 12 20:34:15 2019 -0500
+
+    Agrega ejemplos de clase y una tarea
+
+[33mcommit d0923b7946d0e5cb52b372484cf004649c8d8db4[m
+Author: Omar Navarro <jesusbalderas@cloud.upwork.com>
+Date:   Fri Jun 7 18:49:30 2019 -0500
+
+    Modifies Presentation
+
+[33mcommit cd7b732342ea54dee2bcbc549c1bcee1abf1aff3[m
+Author: Omar Navarro <jesusbalderas@cloud.upwork.com>
+Date:   Mon Apr 8 20:01:27 2019 -0500
+
+    Agrega un ejemplo de clase
+
+[33mcommit 165042a24b18ba7588d799eb74be6cf1a9a56941[m
+Author: Omar Navarro <jesusbalderas@cloud.upwork.com>
+Date:   Sat Apr 6 10:02:58 2019 -0600
+
+    Adds new example files
+
+[33mcommit 04d8f8b861034ac85515d3e5c8fef144bed38b9b[m
+Author: Omar Navarro <jesusbalderas@cloud.upwork.com>
+Date:   Fri Mar 29 20:17:53 2019 -0600
+
+    Adds analysis and implementation subprocess summary
+
+[33mcommit fcbcd089cd05b6ea16c7fa5064365de73503cee7[m
+Merge: a10c12b 4b2d729
+Author: Omar Navarro <jesusbalderas@cloud.upwork.com>
+Date:   Fri Mar 22 19:30:17 2019 -0600
+
+    Merge branch 'master' of https://github.com/jomarnavarro/intro_automation
+
+[33mcommit a10c12b1ddd5b515e0fa25dce1288714f115e46f[m
+Author: Omar Navarro <jesusbalderas@cloud.upwork.com>
+Date:   Fri Mar 22 19:29:52 2019 -0600
+
+    Adds homework files
+
+[33mcommit 4b2d72921d96bd5bbd3d6d037f2614ab1424ad77[m
+Author: Omar Navarro <jomarnavarro@gmail.com>
+Date:   Fri Mar 22 19:27:14 2019 -0600
+
+    Updated README file with new links to resources
+
+[33mcommit 9571237650c9467db19a39cdac54b13bd131b66f[m
+Author: Omar Navarro <jesusbalderas@cloud.upwork.com>
+Date:   Fri Mar 22 18:59:17 2019 -0600
+
+    Adds automation process slides and exercises
+
+[33mcommit 89b20849c0eaad22c62ef95fa9fcfb954d9ea078[m
+Author: Omar Navarro <jesusbalderas@cloud.upwork.com>
+Date:   Fri Mar 22 18:31:09 2019 -0600
+
+    Adds test case template file
+
+[33mcommit 337616984a19173bc260783fa9e58dfe9a8bd262[m
+Author: Omar Navarro <jesusbalderas@cloud.upwork.com>
+Date:   Fri Mar 22 18:26:42 2019 -0600
+
+    Modifies Intro to Automation presentation
+
+[33mcommit 75c288457c85fdd6f5127704bf5b049155d20f5b[m
+Author: Omar Navarro <jesusbalderas@cloud.upwork.com>
+Date:   Fri Mar 22 17:13:43 2019 -0600
+
+    Deletes outdated class  examples and adds new ones
+
+[33mcommit 42867faa1f0af711f4822de46718d79f031d261c[m
+Author: Omar Navarro <jomarnavarro@gmail.com>
+Date:   Sat Jan 19 08:43:28 2019 -0600
+
+    Updated intro automation ppt to include github and trello
+
+[33mcommit 538c3109c601da81e07de0847349d4ec772ee17e[m
+Author: onavarroKueski <onavarro@kueski.com>
+Date:   Sun Apr 29 19:42:04 2018 -0500
+
+    Adds homework test case template files
+
+[33mcommit d006e5b68b6d3eeabfc8d9c4352bdcdd14c2825e[m
+Author: onavarroKueski <onavarro@kueski.com>
+Date:   Sun Apr 29 19:41:49 2018 -0500
+
+    Updates presentation for session 1
+
+[33mcommit 04b547ff36d044a319af0ddfbf55b1d6c0642204[m
+Author: onavarroKueski <onavarro@kueski.com>
+Date:   Sun Apr 29 19:41:39 2018 -0500
+
+    Adds new class examples with Kantu for Chrome
+
+[33mcommit 6cbe5388b5eaf3fdfed2a68dc8e1fbc38aaa8604[m
+Author: onavarroKueski <onavarro@kueski.com>
+Date:   Sun Apr 29 19:40:03 2018 -0500
+
+    Updates README with new software and configuration required
+
+[33mcommit 5732134357c85ace697aaf9b7311d6cd21f74dc8[m
+Author: onavarroKueski <onavarro@kueski.com>
+Date:   Sun Apr 29 19:39:41 2018 -0500
+
+    Deletes outdated files for old Selenium IDE documentation and exercises
+
+[33mcommit 910b8251c1b1ece63ee3ba06c27dc503629e1b9c[m
+Merge: 461c50c 1b833db
+Author: onavarroKueski <onavarro@kueski.com>
+Date:   Wed Apr 4 20:52:24 2018 -0500
+
+    Merge branch 'master' of https://github.com/jomarnavarro/intro_automation
+
+[33mcommit 461c50cd8f865034c03b16388c8b34a1628090ed[m
+Author: onavarroKueski <onavarro@kueski.com>
+Date:   Wed Apr 4 20:51:41 2018 -0500
+
+    Adds class examples
+
+[33mcommit 1b833dbadb629f431a0fda4f887a4ff67d1f8181[m
+Author: Omar Navarro <jomarnavarro@gmail.com>
+Date:   Wed Apr 4 18:21:36 2018 -0500
+
+    Updated Firefox Selenium IDE page with different versions
+
+[33mcommit fa5b78782eb82c211b6c2aca20b77d6a76c19d62[m
+Author: onavarroKueski <onavarro@kueski.com>
+Date:   Mon Apr 2 17:57:38 2018 -0500
+
+    Adds reference to selenium IDE for chrome
+
+[33mcommit 990d2df70ff2d1b759e8c15e706c628bf4531abf[m
+Author: onavarroKueski <onavarro@kueski.com>
+Date:   Mon Apr 2 17:57:25 2018 -0500
+
+    Adds Find selenium IDE Test Case
+
+[33mcommit 09f7eba7d1a41cec0ef8897aa7625c9082d10132[m
+Author: OmarNavarro <onavarro@kueski.com>
+Date:   Sun Nov 5 10:17:02 2017 -0600
+
+    Adds instructions to install Firefox 53 without it updating to latest version
+
+[33mcommit 2c2ff0f9f70eb28526bdf87c21c174a8803ae056[m
+Author: OmarNavarro <onavarro@kueski.com>
+Date:   Sun Nov 5 10:07:58 2017 -0600
+
+    Updates FindMovie test case with ids and link texts
+
+[33mcommit 2acf43e5f55b64052459ef7203775972929e0fc0[m
+Author: OmarNavarro <onavarro@kueski.com>
+Date:   Fri Nov 3 22:07:12 2017 -0600
+
+    Adds class examples and homework test cases
+
+[33mcommit 66d8f44536d4f5fed3fedee6f192d70581007710[m
+Author: OmarNavarro <onavarro@kueski.com>
+Date:   Fri Nov 3 21:53:06 2017 -0600
+
+    Shows instructions on hwo to install git
+
+[33mcommit 6516410f0938c14dedafaf004f65f63c0f28eed9[m
+Author: OmarNavarro <onavarro@kueski.com>
+Date:   Fri Nov 3 21:34:09 2017 -0600
+
+    Adds reference material
+
+[33mcommit 68716986e4dedfff83becf3de37ab2566e075342[m
+Author: OmarNavarro <onavarro@kueski.com>
+Date:   Fri Nov 3 21:26:45 2017 -0600
+
+    Adds slides
+
+[33mcommit cbf318d216fc80e6054856e2b4a8c54552a14046[m
+Author: OmarNavarro <onavarro@kueski.com>
+Date:   Fri Nov 3 20:50:23 2017 -0600
+
+    Modifies Firefox url to point to old version supporting Selenium IDE
+
+[33mcommit b36e919dc6c34105e47b9b232b4c5cfe45f8eeb3[m
+Author: OmarNavarro <onavarro@kueski.com>
+Date:   Tue Sep 19 18:16:48 2017 -0500
+
+    Adds comment on README
+
+[33mcommit 2eefee399b26a1eda348f459e41130ea86a3cc88[m
+Author: OmarNavarro <onavarro@kueski.com>
+Date:   Tue Sep 19 17:49:03 2017 -0500
+
+    Adds README instructions and class examples
+
+[33mcommit 4cfcb76f39015c3e2e39886d9f55c0a94ef6b4e2[m
+Author: OmarNavarro <onavarro@kueski.com>
+Date:   Tue Sep 19 17:05:49 2017 -0500
+
+    first commit
